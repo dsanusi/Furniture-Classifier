@@ -17,8 +17,13 @@ A machine learning model is used to classify beds, sofas and chairs
 
 5. Predictions: Use the trained model to make predictions on new images. flaskapp.py
 
-## CI/CD Implementation with github actions
-![image](https://user-images.githubusercontent.com/44322966/220815028-62939a86-bcea-44cc-a5d1-522fbdd01de6.png)
+## Model Prediction On Test Data
+![image](https://user-images.githubusercontent.com/44322966/220816793-5bd16a80-f83b-4e43-ba71-4c554142e0cd.png)
 
 ## API 
 ![image](https://user-images.githubusercontent.com/44322966/220815936-e06ec83b-5698-4d38-a69e-282485a58c6d.png)
+
+![image](https://user-images.githubusercontent.com/44322966/220816472-45993e95-61e1-4fd8-a671-601cf542c42e.png)
+
+## CI/CD Implementation with github actions
+![image](https://user-images.githubusercontent.com/44322966/220815028-62939a86-bcea-44cc-a5d1-522fbdd01de6.png)
