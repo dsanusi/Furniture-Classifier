@@ -1,10 +1,10 @@
 # Furniture-Classifier
 A machine learning model is used to classify beds, sofas and chairs
 
-##Technologies Used
-  HTML
-  Python
-  Docker
+## Technologies Used
+  1. HTML
+  2. Python
+  3. Docker
 
 ## Steps Followed
 1. Data Preprocessing: Loaded the dataset and performed preprocessing steps such as resizing the images, splitting the data into training and validation sets, and data augmentation. utils.py
@@ -20,4 +20,5 @@ A machine learning model is used to classify beds, sofas and chairs
 ## CI/CD Implementation with github actions
 ![image](https://user-images.githubusercontent.com/44322966/220815028-62939a86-bcea-44cc-a5d1-522fbdd01de6.png)
 
-
+## API 
+![image](https://user-images.githubusercontent.com/44322966/220815936-e06ec83b-5698-4d38-a69e-282485a58c6d.png)
